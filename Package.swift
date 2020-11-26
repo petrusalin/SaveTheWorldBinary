@@ -17,7 +17,7 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(name: "SaveTheWorldBinary",
-                      url: "https://github.com/petrusalin/resources/blob/master/SaveTheWorldFramework.xcframework.zip",
+                      url: "http://localhost/~alin.petrus/SaveTheWorldFramework.xcframework.zip",
                       checksum: "c979916abeb9c6a7cad9c175b41bafe4b06f5b5f432d036c75e51de00e57a41b")
     ]
 )
